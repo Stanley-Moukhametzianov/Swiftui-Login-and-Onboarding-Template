@@ -3,6 +3,9 @@ This swiftUI Demo shows a simple template for an ios loading screen. The demo in
 On-boarding screens, login screen, forgot password screen and sign up screen. Currently, this demo
 does not have any back end framework. To login in the test email and password is hard coded to "test@gmail.com" and "1234".
 
+
+https://user-images.githubusercontent.com/66892566/126084718-c89f86cd-5413-4ecc-88cc-22b136a6163c.MP4
+
 # Description #
 In the views folder, the main view controller is labeled as "MainAppView.swift" (This is different from the file labeled 
 "Main View" which controls the home page of the app. Currently this page just displays the text "Main" as seen at
