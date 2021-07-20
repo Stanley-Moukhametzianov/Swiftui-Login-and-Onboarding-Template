@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Onboarding Template
+//  Schedule Manager
 //
-//  Created by Stanley Moukh on 7/17/21.
+//  Created by Stanley Moukh on 7/10/21.
 //
 
 import UIKit
